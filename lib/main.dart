@@ -38,7 +38,7 @@ class BoxScreen extends StatelessWidget {
             child: CircleAvatar(
               radius: 70,
               backgroundImage: NetworkImage(
-                  "https://scontent-cdt1-1.xx.fbcdn.net/v/t39.30808-6/262639120_4822422531143309_8778383907595570379_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=QTXnyBxsF6YAX9PsjX8&tn=KPwPIshsNhD9QjmJ&_nc_ht=scontent-cdt1-1.xx&oh=00_AT_6tlz7usL6qCS3mFvaFNv9SBHzQRiKgUsndkqbe6DqQg&oe=61DA93D7"),
+                  "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.6435-9/203708030_4321233237928910_4642963534000150128_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=PHfsFI-K7JgAX9rpwtv&_nc_ht=scontent-cdg2-1.xx&oh=00_AT8i4OP3nD8VVTmMvOci1CCetqy0aWa9y7MyRqumebtTNg&oe=6202106D"),
             ),
           ),
           width: deviceWidth * 1,
